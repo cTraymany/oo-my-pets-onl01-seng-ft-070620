@@ -63,7 +63,7 @@ class Owner
   end
   
 end
-
+binding.pry
 # jaja = Owner.new("Chindalath")
 # # jaja => #<Owner:0x00000000016c1cd0 @name="Chindalath", @species="human">
 # jaja.buy_cat("Gomez")
